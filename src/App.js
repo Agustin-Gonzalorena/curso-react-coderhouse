@@ -8,7 +8,7 @@ function App() {
   return (
     <main>
       <Navbar />
-      <Products />
+      <Products title={"Productos"} />
       <Footer />
     </main>
   );
