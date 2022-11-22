@@ -19,7 +19,7 @@ const Navbar = () => {
             </ul>
             <div className='containerLoggin'>
                 {/* <Button variant="dark" onClick={login}>Login</Button> */}
-                <CartWidget />
+                <CartWidget num="8" />
             </div>
         </nav>
     )

@@ -1,6 +1,5 @@
 import React from 'react'
 import { Button } from 'react-bootstrap'
-import CartWidget from '../CartWidget/CartWidget'
 import "./Products.css"
 const Products = ({ title }) => {
     return (
