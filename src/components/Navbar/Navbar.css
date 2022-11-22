@@ -1,0 +1,39 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    padding: 10px;
+    background-color: gray;
+}
+
+nav h1 {
+    width: 200px;
+    margin: 0;
+}
+
+.itemsNav {
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.itemsNav li {
+    list-style: none;
+}
+
+.itemsNav a {
+    color: black;
+    text-decoration: none;
+}
+
+.itemsNav a:hover {
+    color: black;
+}
+
+.containerLoggin {
+    display: flex;
+    justify-content: center;
+    width: 200px;
+}
